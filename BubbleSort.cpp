@@ -15,6 +15,11 @@ void sort(float array[],int &n){
 				array[j]=flag;
 			}
 					count2++;
+			
+			
+			
+			
+			//nothing
 		}
 
 	}
