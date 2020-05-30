@@ -16,10 +16,10 @@ void sort(float array[],int &n){
 			}
 					count2++;
 			
+			//and here
 			
 			
-			
-			//nothing
+			//nothing here
 		}
 
 	}
